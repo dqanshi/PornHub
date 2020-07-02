@@ -18,13 +18,11 @@ else:
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "@rosebakthan"
 
 cat_caption = "**MY BOT IS RUNNING SUCCESFULLY**\n\n"
-cat_caption += f"☞`Telethon Version:` **{version.__version__}**\n"
-cat_caption += f"☞`Python Version:` **{python_version()}**\n"
-cat_caption += "☞**Always With You, My Master!**\n"
+"╭━━━━━━━╮\n┃　　● ══　    ┃\n┃███████┃\n┃███████┃\n┃███████┃\n┃███████┃\n┃███████┃\n┃███████┃\n┃███████┃\n┃███████┃\n┃　　 　O　  　  ┃\n╰━━━━━━━╯\n\n
+
 cat_caption += f"☞`Owner Name :` {DEFAULTUSER}\n"
-cat_caption += "☞`Database Status :` Databases Functioning Normally!\n"
 cat_caption += "☞`Modified by :` 𔒒K࿆I𝐝Ｉ𝕠⃤S𝓀α᳄☤👁‍🗨\n"
-cat_caption += "☞`Created by :` snapdragon, anubis, sandeep\n\n"
+cat_caption += "☞`sandeep\n\n"
 cat_caption += "**[⚜️DEPLOY CATUSERBOT⚜️]**"
 
 
